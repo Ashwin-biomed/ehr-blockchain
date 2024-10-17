@@ -7,8 +7,8 @@ export const environment = {
 };
 
 export const IPFS = {
-  localIPFS: 'http://127.0.0.1:5001/api/v0',
-  localIPFSGet: 'http://localhost:8080/ipfs/'
+  localIPFS: 'http://ipfs.infura.io/',
+  localIPFSGet: 'http://ipfs.infura.io/'
 }
 
 /*
